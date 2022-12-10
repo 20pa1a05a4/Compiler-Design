@@ -1,10 +1,12 @@
 # Compiler-Design
 
-COMPILER DESIGN LAB EXPERIMENTS/PROGRAMS Requirements Python 3.6+ How to Run? Install Python 3.6+ Clone this repository In command line type:
+COMPILER DESIGN LAB EXPERIMENTS/PROGRAMS 
 
-python ex[exercise-number].py
+Requirements Python 3.6+ How to Run? Install Python 3.6+ Clone this repository 
 
-##Experiments List
+In command line type: python ex[exercise-number].py
+
+## Experiments List
 
 Ex.1 - Lexical Analyzer
 
